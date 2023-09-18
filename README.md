@@ -7,3 +7,6 @@ Low code development tools enable software creation without the need for much co
 and cost-efficiency. On the other hand, the article underscores the continued significance of software engineering experts 
 in supervising and ensuring the effectiveness of low-code solutions. This underscores the enduring value of software 
 engineers in directing and enhancing software development procedures, even in the prevailing age of automation.
+
+# What Ethan Sha find Interesting:
+The article offers a thorough look at the dynamic future of software engineering, making a compelling argument for why it's a viable and promising career path. It emphasizes the importance of staying updated with emerging technologies and ethical considerations, which I find crucial in today's rapidly evolving tech landscape.
